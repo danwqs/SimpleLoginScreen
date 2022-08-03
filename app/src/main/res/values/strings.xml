@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Layout Tela de Login</string>
+    <string name="Email_LoginApp">Email</string>
+    <string name="Senha_App_Layout">Senha</string>
+</resources>
